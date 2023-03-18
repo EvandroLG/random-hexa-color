@@ -1,5 +1,9 @@
 type ReturnType = `#${Uppercase<string>}`;
 
+/*
+ * Utility function to generate random hexadecimal colors
+ * @returns {string} hexadecimal color
+ */
 function randomHexaColor(): ReturnType {
   const alpha = '0123456789ABCDEF';
   const output = ['#'];
