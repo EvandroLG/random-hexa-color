@@ -1,4 +1,4 @@
-# random-hexa-color
+# 🎨 random-hexa-color
 
 Utility function to generate a random hexadecimal color
 
