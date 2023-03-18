@@ -1,6 +1,6 @@
 # random-hexa-color
 
-Utility function to generate random hexadecimal colors
+Utility function to generate a random hexadecimal color
 
 ## Installation
 

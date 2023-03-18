@@ -1,7 +1,7 @@
 type ReturnType = `#${Uppercase<string>}`;
 
 /*
- * Utility function to generate random hexadecimal colors
+ * Utility function to generate a random hexadecimal color
  * @returns {string} hexadecimal color
  */
 function randomHexaColor(): ReturnType {
